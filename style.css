@@ -1,0 +1,24 @@
+body {
+    background-color: aliceblue;
+}
+h1 {
+    background-color: #c6538c;
+    color: darkslategray;
+    text-align: center;
+    margin:auto;
+}
+.linkzone {
+    border:black;
+    text-align: center;
+}
+img {
+    margin-top: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+figcaption {
+    text-align: center;
+    font-size: small;
+}
