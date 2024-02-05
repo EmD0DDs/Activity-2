@@ -8,6 +8,8 @@ h1 {
     margin:auto;
 }
 .linkzone {
+    background-color: #c6538c;
+    color: darkslategray;
     border:black;
     text-align: center;
 }
@@ -21,4 +23,7 @@ img {
 figcaption {
     text-align: center;
     font-size: small;
+}
+p {
+    font-size: larger;
 }
